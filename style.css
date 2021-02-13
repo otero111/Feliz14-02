@@ -2,15 +2,16 @@ body {
     background-color: #D670DA;
     text-align: center;
     font-family: 'Sriracha', cursive;
-    font-size: 30px;
   }
-  
+h4{
+  font-size: 15px;
+}
  
  
  #resultado{
     font-size: 60px;
     color: black;
-    margin-top: 100px;
+    
 
  }
  
@@ -67,14 +68,11 @@ body {
         rotate(-45deg);
     }
   }
-  #Publicidad{
-      min-height: 100em;
-      position: absolute;
-  }
-  #Publicidad img{
-      width: 200px;
-      height: 200px;
-      border-radius: 20%;
-     
-     text-justify: initial;
+  
+
+  #publicidad img{
+    height: 150px;
+    width: 95%;
+    padding: 0px;
+    margin: 0px;
   }
