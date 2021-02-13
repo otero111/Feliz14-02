@@ -33,8 +33,8 @@ var textos = ["He venido a agradecerte",
 ]
 
 var publicidad = [
-  '<a href=""><img src="Portada.jpg" alt=""><h4>Visitar Hostal Farallon</h4></a>',
-  '<a href=""><img src="doñaelis.jpg" alt=""><h4>Visitar Dulceria Doña Elis</h4></a>',
+  '<a href="https://rebrand.ly/HostalFarallon"><img src="Portada.jpg" alt=""><h4>Visitar Hostal Farallon</h4></a>',
+  '<a href="https://rebrand.ly/donaelis"><img src="doñaelis.jpg" alt=""><h4>Visitar Dulceria Doña Elis</h4></a>',
 
 
 ]
